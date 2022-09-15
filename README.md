@@ -1,4 +1,4 @@
-# Teoría clase
+# Teoría clase_31
 
 npx (en Node) es para utilizar un módulo o dependencia sin instalarlo en local
 
