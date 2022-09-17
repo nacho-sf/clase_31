@@ -61,6 +61,8 @@ con el componente del DOM virtual
 
 ////// DISEÑO DE COMPONENTES
 
+ANTES DE CREAR LOS ARCHIVOS .JSX, SE CREA LA ESTRUCTURA DE CARPETAS QUE VAMOS A VER AHORA. COMO YA LO TENEMOS CREADO, CON FINES DIDÁCTICOS SE VAN A MOVER LOS ARCHIVOS EN LUGAR DE CREARLOS DE 0.
+
 Lo primero que hay que hacer es planificar el contenido de la web en secciones. Ejemplo tabulado al estilo PUG para que se entienda:
 
 App
@@ -77,6 +79,7 @@ App
     Footer
         Nav
         Nav
+
 
 
 Instalamos la extensión de VisualCode ES7+ React/Redux/React-Native para tener atajos de teclado.
